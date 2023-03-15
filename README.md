@@ -6,7 +6,7 @@
 - 🌎 Linguas | Languages: Portuguese 🇧🇷
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldemaas&count_private=true&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldemaas&count_private=true&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldemaas&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
