@@ -5,9 +5,11 @@
 - 💻 Experiência com | Some experience with: Python and Java
 - 🌎 Linguas | Languages: Portuguese 🇧🇷
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldemaas&count_private=true&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-</p>
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/aldemaas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldemaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldemaas&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
