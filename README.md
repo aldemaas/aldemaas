@@ -1,4 +1,4 @@
-### Eu sou Aldemir Carlos
+### Aldemir Carlos
 
 - 🃏 Pronouns: ele/dele
 - 🌎 From: Brazil 🇧🇷
