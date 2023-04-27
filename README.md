@@ -7,7 +7,7 @@
 
 <div align="left" style="display: inline_block">
   <a href="https://github.com/aldemaas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldemaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldemaas&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
 </div>
 
 
