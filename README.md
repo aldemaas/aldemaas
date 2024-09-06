@@ -24,6 +24,8 @@
 ## 📝 Coisas que eu sei com essas linguagens de programação:
 
 - Programação orientada a objetos | Java
+- Desenvolvimento de API | Java/Spring Boot
+- Análise de Dados | Python
 
 ##
 
