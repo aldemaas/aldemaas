@@ -2,7 +2,7 @@
 
 - 🃏 Pronouns: ele/dele
 - 🌎 From: Brazil 🇧🇷
-- 💻 Experiência com | Some experience with: Python and Java
+- 💻 Experiência com | Some experience with: Python, Java and R
 - 🌎 Linguas | Languages: Portuguese 🇧🇷
 
 <div align="left" style="display: inline_block">
@@ -16,16 +16,17 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90vw"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90vw" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="90vw"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90vw"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="90vw" />
           
 </p>
 
 ## 📝 Coisas que eu sei com essas linguagens de programação:
 
-- Programação orientada a objetos | Java
+- Análise de Dados | Python e R
+- Extração e tratamento de dados | Python e R
+- Criação de dashboards | Python e R
 - Desenvolvimento de API | Java/Spring Boot
-- Análise de Dados | Python
+- Programação orientada a objetos | Java
 
 ##
 
